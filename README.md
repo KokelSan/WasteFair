@@ -17,7 +17,7 @@ At the end of the development, we managed to implement one minigame, the BasletW
 ## Gallery 🖼️
 |<img src="Assets/BasketWaste.png" alt="" >|<img src="Assets/Town.png" alt="" >|
 :-------------------------:|:-------------------------:
-|The BasketWaste area|The town|
+|The BasketWaste area|The town welcoming the fair|
 
 |<img src="Assets/EpicThrow.png" alt="" >|<img src="Assets/HelloFriend.png" alt="" >|
 :-------------------------:|:-------------------------:
