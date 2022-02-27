@@ -22,3 +22,10 @@ At the end of the development, we managed to implement one minigame, the BasletW
 |<img src="Assets/EpicThrow.png" alt="" >|<img src="Assets/HelloFriend.png" alt="" >|
 :-------------------------:|:-------------------------:
 |The MVP point of view !|Hello my friend !|
+
+## Demo video 🎥
+Here is a link to the presentation video we made to promote the game to our friends  
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2pCNyiJMCFU
+" target="_blank"><img src="http://img.youtube.com/vi/2pCNyiJMCFU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
