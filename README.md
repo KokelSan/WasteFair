@@ -23,9 +23,15 @@ At the end of the development, we managed to implement one minigame, the BasletW
 :-------------------------:|:-------------------------:
 |The MVP point of view !|Hello my friend !|
 
-## Demo video 🎥
-Here is a link to the presentation video we made to promote the game to our friends  
+## video 🎥
+Here is a link to the presentation video we made to promote the game 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2pCNyiJMCFU
 " target="_blank"><img src="http://img.youtube.com/vi/2pCNyiJMCFU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+Another link to a report made by our School about the project
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=ayqZ-1bGwfU
+" target="_blank"><img src="http://img.youtube.com/vi/ayqZ-1bGwfU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
